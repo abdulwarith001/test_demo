@@ -1,0 +1,28 @@
+body{
+background-color: black;
+color: white;
+font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+.holder{
+    font-size: 1.3em;
+    padding: 1em;
+}
+
+li{
+    padding: 0.5em;
+}
+
+button{
+    background-color: grey;
+    font-size: 3em;
+    padding: 0.5em;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
